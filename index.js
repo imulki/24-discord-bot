@@ -1,7 +1,7 @@
 const eris = require('eris');
 
 const PREFIX = '/>';
-const bot = new eris.Client("ODg3MjcxODA5MTc3NzYzODQx.YUBuRA.6a4mEPbSzMHIWSweHv3uwUR8p8c");
+const bot = new eris.Client("ODg3MjcxODA5MTc3NzYzODQx.YUBuRA.6a4mEPbSzMHIWSweHv3uwUR8p8c"); // OLD TOKEN
 
 const variables = {};
 variables["lock"] = true;
